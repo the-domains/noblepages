@@ -1,0 +1,28 @@
+name: Noblepages
+favicon: null
+layout_spectrum: 0.1555576827377081
+typography_spectrum: 0.6997222653590143
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7605676206294447
+  lightness: 0.0727521083317697
+  saturation: 0.6870623577851802
+  rhythmicContrast: 0.6666530077345669
+purpose: []
